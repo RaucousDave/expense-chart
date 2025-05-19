@@ -72,7 +72,7 @@ export default function Chart() {
   };
 
   return (
-    <div className="bg-white rounded-xl shadow-lg p-3 md:p-6  w-[100%] md:w-[50%] mx-auto max-h-[400px]">
+    <div className="bg-white rounded-xl shadow-lg p-3 md:p-6  w-[100%] md:w-[45%] mx-auto max-h-[400px]">
       <h1 className="text-2xl font-semibold text-brown-dark">
         Spending - Last 7 Days
       </h1>

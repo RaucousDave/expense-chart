@@ -3,7 +3,7 @@ import Header from "./Header";
 
 export default function Home() {
   return (
-    <div className="min-h-screen flex gap-5 px-5 flex-col justify-center items-center ">
+    <div className="min-h-screen flex gap-5 px-5 md:px-0 flex-col justify-center items-center ">
       <Header />
       <Chart />
     </div>
